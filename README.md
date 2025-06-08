@@ -5,3 +5,7 @@ I love working with different types of data, discovering insights, and turning t
 I have a background in business analytics and experience analyzing data across multiple domains to support better decision-making.
 
 You can see more information in 
+
+This repository demonstrates my proficiency in data analysis and visualization using tools such as Excel, Python, SQL, Power BI, Tableau, PowerPoint and other.
+
+#Contents
