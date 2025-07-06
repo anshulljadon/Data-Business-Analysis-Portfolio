@@ -9,3 +9,5 @@ You can see more information in
 This repository demonstrates my proficiency in data analysis and visualization using tools such as Excel, Python, SQL, Power BI, Tableau, PowerPoint and other.
 
 # Contents
+
+Certificate
