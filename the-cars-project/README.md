@@ -59,7 +59,7 @@ Author: Anshul Jadon
     ├── requirements.txt      # Project dependencies
     └── README.md             # Project documentation
 
-📊 Dataset Information
+# Dataset Information
 
     * Source: Indian used car listings
      
@@ -87,3 +87,4 @@ The goal of this project is to:
 # Conclusion
 
 This dashboard demonstrates how simple analysis and clear visualization can provide valuable insights from messy real-world data.
+
