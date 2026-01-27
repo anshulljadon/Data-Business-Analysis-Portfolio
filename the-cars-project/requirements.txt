@@ -3,8 +3,8 @@ pandas
 matplotlib
 seaborn
 jupyter
-pip install streamlit
-streamlit run streamlit_app.pystreamlit
+streamlit
+
 
 
 
