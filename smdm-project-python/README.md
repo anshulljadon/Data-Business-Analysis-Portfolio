@@ -18,8 +18,6 @@ This project presents a comprehensive analysis of automobile data using Statisti
    * Main Jupyter Notebook containing the complete analysis
    * Data loading, cleaning, and preprocessing
    * Exploratory Data Analysis (EDA)
-   * Statistical analysis
-   * Machine learning model implementation
    * Visualizations and conclusions
 
 # austo_automobile.csv
@@ -60,7 +58,7 @@ Launch Jupyter Notebook:
    * Start the Jupyter Notebook server
    * Open the notebook in your web browser
    * Execute cells sequentially using:
-         -Shift + Enter, or
+   *  Shift + Enter
    * The Run button in the toolbar
    * *ll outputs and visualizations will be displayed inline
 
@@ -69,7 +67,7 @@ Launch Jupyter Notebook:
    * The notebook follows a structured analytical approach:
    * Data Loading: Importing and initial exploration of the dataset
    * Data Cleaning: Handling missing values and data preprocessing
-   * Exploratory Data Analysis (EDA): Summary statistics and      distribution analysis
+   * Exploratory Data Analysis (EDA): Summary statistics and distribution analysis
    * Data Visualization: Graphical analysis using plots and charts
    * Statistical Analysis: Correlation analysis and hypothesis testing
 
@@ -106,5 +104,6 @@ All outputs are generated dynamically during notebook execution
 
 
 # License
+
 
       This project is created for educational and analytical purposes only.
