@@ -11,7 +11,7 @@ This repository demonstrates my proficiency in data analysis and visualization u
 # Contents
 
 Certificate
-
+Certificate/Certificate By Microsoft and LinkedIn Career Essentials in Business Analysis.pdf
 1. Certificate By Microsoft and LinkedIn Career Essentials in Business Analysis.pdf
 
 # 📊 Data & Business Analysis Portfolio  
