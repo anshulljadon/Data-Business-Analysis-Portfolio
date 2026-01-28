@@ -11,6 +11,9 @@ This repository demonstrates my proficiency in data analysis and visualization u
 # Contents
 
 Certificate
+* [Google Data Analytics Certificate](Certificates/Google-Data-Analytics.pdf)
+* [Excel Analysis Certificate](Certificates/Excel-Analysis.pdf)
+
 Certificate/Certificate By Microsoft and LinkedIn Career Essentials in Business Analysis.pdf
 1. Certificate By Microsoft and LinkedIn Career Essentials in Business Analysis.pdf
 
