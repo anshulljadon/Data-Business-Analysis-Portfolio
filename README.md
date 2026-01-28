@@ -11,7 +11,7 @@ This repository demonstrates my proficiency in data analysis and visualization u
 # Contents
 
 Certificate
-* [Certificate By Microsoft and LinkedIn Career Essentials in Business Analysis](https://github.com/anshulljadon/Data-Business-Analysis-Portfolio/tree/main)
+* [Certificate By Microsoft and LinkedIn Career Essentials in Business Analysis](https://github.com/anshulljadon/Data-Business-Analysis-Portfolio/blob/77575e5e171b9c0ffdfa1a42b7f017b019959fc2/Certificate/Certificate%20By%20Microsoft%20and%20LinkedIn%20Career%20Essentials%20in%20Business%20Analysis.pdf)
 
 Certificate/Certificate By Microsoft and LinkedIn Career Essentials in Business Analysis.pdf
 1. Certificate By Microsoft and LinkedIn Career Essentials in Business Analysis.pdf
