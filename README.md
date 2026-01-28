@@ -4,11 +4,39 @@ Hello everyone! My name is Anshul, and this is my portfolio.<br>
 I love working with different types of data, discovering insights, and turning them into impactful visual stories.<br>
 I have a background in business analytics and experience analyzing data across multiple domains to support better decision-making.
 
-You can see more information in
+You can see more information in [CV](https://github.com/anshulljadon/Data-Business-Analysis-Portfolio/blob/98299286f2866f224693cdace49582ebbf045330/Data%20Business%20Analyst%20CV.pdf)
 
 This repository demonstrates my proficiency in data analysis and visualization using tools such as Excel, Python, SQL, Power BI, Tableau, PowerPoint and other.
 
 # Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Certificate
 * [Certificate By Microsoft and LinkedIn Career Essentials in Business Analysis](https://github.com/anshulljadon/Data-Business-Analysis-Portfolio/blob/77575e5e171b9c0ffdfa1a42b7f017b019959fc2/Certificate/Certificate%20By%20Microsoft%20and%20LinkedIn%20Career%20Essentials%20in%20Business%20Analysis.pdf)
@@ -27,76 +55,4 @@ Certificate
 * [TATA Data Visualisation Empowering Business](https://github.com/anshulljadon/Data-Business-Analysis-Portfolio/blob/77575e5e171b9c0ffdfa1a42b7f017b019959fc2/Certificate/TATA%20Data%20Visualisation%20%20Empowering%20Business.pdf)
 * [Linkedin Lerning Certificate Learning Data Analytics](https://github.com/anshulljadon/Data-Business-Analysis-Portfolio/blob/77575e5e171b9c0ffdfa1a42b7f017b019959fc2/Certificate/Linkedin%20Lerning%20Certificate%20Learning%20Data%20Analytics%201%20Foundations.pdf)
 * [Linkedin Lerning Certificate Data Analytics Part 2 Extending and Applying Core Knowledge](https://github.com/anshulljadon/Data-Business-Analysis-Portfolio/blob/77575e5e171b9c0ffdfa1a42b7f017b019959fc2/Certificate/Linkedin%20Lerning%20Certificate%20Data%20Analytics%20Part%202%20Extending%20and%20Applying%20Core%20Knowledge.pdf)
-
-
-I focus on **real-world datasets**, clear **business insights**, and **practical tools** used by analysts in companies — not just theory.
-
----
-
-## 👋 About Me
-
-Hi, I’m **Anshul Jadon**, an aspiring **Data Analyst / Business Analyst** with an MBA background and a strong interest in turning raw data into meaningful business insights.
-
-I believe:
-> *Data is only valuable when it helps make better decisions.*
-
-This portfolio is built to demonstrate:
-- How I **think as an analyst**
-- How I **approach business problems**
-- How I **use data to support decisions**
-
----
-
-## 🎯 What This Portfolio Shows
-
-✔ Practical projects (not dummy ones)  
-✔ Business-focused analysis  
-✔ Clear problem → analysis → insight flow  
-✔ Tools used in real companies  
-✔ Continuous learning mindset  
-
----
-
-## 🛠 Skills & Tools
-
-### 📊 Data Analysis
-- Excel (Pivot Tables, Lookups, Charts)
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Exploratory Data Analysis (EDA)
-
-### 🗄 Databases
-- SQL (Basic to Intermediate queries)
-
-### 📈 Data Visualization
-- Power BI
-- Tableau
-- Matplotlib & Seaborn (Python)
-
-### 📑 Business & Reporting
-- PowerPoint (Insight-driven presentations)
-- KPI analysis
-- Business storytelling
-
-### 🧰 Other Tools
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-
----
-
-## 📂 Repository Structure
-
-```text
-Data-Business-Analysis-Portfolio/
-│
-├── Python Projects/
-│   ├── smdm-project-python/
-│   └── the-cars-project/
-│
-├── Certificates/
-│
-├── CV/
-│   └── Data & Business Analyst CV.pdf
-│
-└── README.md
 
