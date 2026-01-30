@@ -4,7 +4,7 @@ Hello everyone! My name is Anshul, and this is my portfolio.<br>
 I love working with different types of data, discovering insights, and turning them into impactful visual stories.<br>
 I have a background in business analytics and experience analyzing data across multiple domains to support better decision-making.
 
-You can see more information in [CV](https://github.com/anshulljadon/Data-Business-Analysis-Portfolio/blob/98299286f2866f224693cdace49582ebbf045330/Data%20Business%20Analyst%20CV.pdf)
+You can see more information in [CV](https://github.com/anshulljadon/Data-Business-Analysis-Portfolio/blob/53ca90f7c64d1e679d54d17a904b836551c85732/ANSHUL-CV.pdf)
 
 This repository demonstrates my proficiency in data analysis and visualization using tools such as Excel, Python, SQL, Power BI, Tableau, PowerPoint and other.
 
