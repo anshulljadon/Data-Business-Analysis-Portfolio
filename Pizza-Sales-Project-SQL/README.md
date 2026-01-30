@@ -2,8 +2,8 @@
 
 
 ##Project Structure    
-####PizzaHut-Sales-Analysis/
-      │
+####PizzaHut-Sales-Analysis
+      
       ├── orders.csv
       ├── order_details.csv
       ├── pizzas.csv
@@ -77,3 +77,4 @@ The goal of this project is to demonstrate:
   * Most popular pizza sizes
 
 #These insights help simulate real business reporting scenarios.
+
