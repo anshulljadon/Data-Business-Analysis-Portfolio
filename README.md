@@ -110,7 +110,7 @@ Hi I'm Anshul Jadon, an aspiring Data scientists with a strong interest in data-
     * Python, Pandas, Matplotlib, Seaborn, Streamlit
     This project shows my ability to complete an end-to-end analysis workflow.
 
-#Certificates
+# Certificates
 
 [Certificate](https://github.com/anshulljadon/Data-Business-Analysis-Portfolio/tree/fd52aaa9db6213d1c29e3d24a0010f59e2ac6b7e/Certificate)
 
@@ -175,7 +175,7 @@ Hi I'm Anshul Jadon, an aspiring Data scientists with a strong interest in data-
 
 I’m open to:
 
-  Entry-level Data scientists , Data / Business Analyst roles
+  Entry-level Data scientists , Data / Business Analyst roles and 
   Internships also
 
 
