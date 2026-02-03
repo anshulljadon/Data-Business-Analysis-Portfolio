@@ -176,7 +176,7 @@ Hi I'm Anshul Jadon, an aspiring Data scientists with a strong interest in data-
 I’m open to:
 
   Entry-level Data scientists , Data / Business Analyst roles and 
-  Internships also
+  Internships.
 
 
 ## Final Note
