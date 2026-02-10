@@ -30,8 +30,6 @@ Hi I'm Anshul Jadon, an aspiring Data scientists with a strong interest in data-
     * Excel (analysis & reporting) 
     * PowerPoint (business presentations) 
     * Git & GitHub
-    * VS Code
-    * MySQL
 
  ## Repository Structure
       Data-Business-Analysis-Portfolio
